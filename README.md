@@ -1,4 +1,4 @@
-# Kevin's Good Scripts
+# Good Scripts
 
 A collection of useful shell scripts to enhance your development workflow.
 
